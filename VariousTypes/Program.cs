@@ -34,6 +34,13 @@ namespace VariousTypes
         Console.WriteLine($"Double: {f}");
         Console.WriteLine($"Decimal: {g}");
         Console.WriteLine();
+
+         bool isTrue = true;
+        bool isFalse = false;
+
+        Console.WriteLine("### Variáveis Booleanas ###");
+        Console.WriteLine($"Boolean True: {isTrue}");
+        Console.WriteLine($"Boolean False: {isFalse}");
         }
     }
 }
