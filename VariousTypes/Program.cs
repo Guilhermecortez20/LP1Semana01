@@ -16,6 +16,15 @@ namespace VariousTypes
         Console.WriteLine($"Short: {b}");
         Console.WriteLine($"Int: {c}");
         Console.WriteLine($"Long: {d}");
+
+        char char1 = '\u2665'; // ♥
+        char char2 = '\u2600'; // ☀
+        char char3 = '\u263A'; // ☺
+
+        Console.WriteLine($"Char 1: {char1}");
+        Console.WriteLine($"Char 2: {char2}");
+        Console.WriteLine($"Char 3: {char3}");
+
         }
     }
 }
