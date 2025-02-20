@@ -23,8 +23,17 @@ namespace VariousTypes
 
         Console.WriteLine($"Char 1: {char1}");
         Console.WriteLine($"Char 2: {char2}");
-        Console.WriteLine($"Char 3: {char3}");
+        Console.WriteLine($"Char 3: {char3}");  
+        
+        float e = 3.14f;
+        double f = 2.718281828;
+        decimal g = 1.618033988749895m;
 
+     Console.WriteLine("### Variáveis Reais ###");
+        Console.WriteLine($"Float: {e}");
+        Console.WriteLine($"Double: {f}");
+        Console.WriteLine($"Decimal: {g}");
+        Console.WriteLine();
         }
     }
 }
