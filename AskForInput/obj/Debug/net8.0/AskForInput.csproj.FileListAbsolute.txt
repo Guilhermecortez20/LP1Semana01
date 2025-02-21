@@ -1,0 +1,15 @@
+C:\Users\Guilh\Desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.AssemblyInfo.cs
+C:\Users\Guilh\Desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.sourcelink.json
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\bin\Debug\net8.0\AskForInput.exe
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\bin\Debug\net8.0\AskForInput.deps.json
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\bin\Debug\net8.0\AskForInput.runtimeconfig.json
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\bin\Debug\net8.0\AskForInput.dll
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\bin\Debug\net8.0\AskForInput.pdb
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.dll
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\refint\AskForInput.dll
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.pdb
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\AskForInput.genruntimeconfig.cache
+C:\Users\Guilh\desktop\LP1\LP1Semana01\AskForInput\obj\Debug\net8.0\ref\AskForInput.dll

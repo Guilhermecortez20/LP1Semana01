@@ -15,7 +15,7 @@ namespace AskForInput
         Console.Write("Digite um número real: ");
         string inputFloat = Console.ReadLine();
 
-        float numeroReal = float.Parse(inputFloat, CultureInfo.InvariantCulture);
+        float numeroReal = float.Parse(inputFloat);
 
         float soma = numeroInteiro + numeroReal;
         Console.WriteLine($"A soma de {numeroInteiro} e {numeroReal} é {soma}");
